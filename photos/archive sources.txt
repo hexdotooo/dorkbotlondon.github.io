@@ -1,4 +1,15 @@
-Saul Albert: https://web.archive.org/web/20040405155435/https://twenteenthcentury.com/dorkbot/
-David Gerard: https://web.archive.org/web/20030407232432/https://velvet.net/~fun/ukpix/030219-dorkbot/
-Yoshi Imamura: https://yoshizen.wordpress.com/tag/dorkbot-london/
-Chris King: https://web.archive.org/web/20170913092504/https://www.chris-king.org.uk/
+Chris Heathcote:
+- https://web.archive.org/web/20030126153128/http://www.undergroundlondon.com:80/deaddodo/dorkbotlondon/20011205/
+- https://web.archive.org/web/20030304025634/http://www.undergroundlondon.com:80/deaddodo/dorkbotlondon/200212/
+
+Chris King:
+- https://web.archive.org/web/20170913092504/https://www.chris-king.org.uk/
+
+David Gerard:
+- https://web.archive.org/web/20030407232432/https://velvet.net/~fun/ukpix/030219-dorkbot/
+
+Saul Albert:
+- https://web.archive.org/web/20040405155435/https://twenteenthcentury.com/dorkbot/
+
+Yoshi Imamura:
+- https://yoshizen.wordpress.com/tag/dorkbot-london/
